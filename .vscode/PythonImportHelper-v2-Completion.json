@@ -1,0 +1,2416 @@
+[
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "sysconfig",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sysconfig",
+        "description": "sysconfig",
+        "detail": "sysconfig",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "winreg",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "winreg",
+        "description": "winreg",
+        "detail": "winreg",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "cKDTree",
+        "importPath": "scipy.spatial",
+        "description": "scipy.spatial",
+        "isExtraImport": true,
+        "detail": "scipy.spatial",
+        "documentation": {}
+    },
+    {
+        "label": "cKDTree",
+        "importPath": "scipy.spatial",
+        "description": "scipy.spatial",
+        "isExtraImport": true,
+        "detail": "scipy.spatial",
+        "documentation": {}
+    },
+    {
+        "label": "cKDTree",
+        "importPath": "scipy.spatial",
+        "description": "scipy.spatial",
+        "isExtraImport": true,
+        "detail": "scipy.spatial",
+        "documentation": {}
+    },
+    {
+        "label": "cKDTree",
+        "importPath": "scipy.spatial",
+        "description": "scipy.spatial",
+        "isExtraImport": true,
+        "detail": "scipy.spatial",
+        "documentation": {}
+    },
+    {
+        "label": "cKDTree",
+        "importPath": "scipy.spatial",
+        "description": "scipy.spatial",
+        "isExtraImport": true,
+        "detail": "scipy.spatial",
+        "documentation": {}
+    },
+    {
+        "label": "cKDTree",
+        "importPath": "scipy.spatial",
+        "description": "scipy.spatial",
+        "isExtraImport": true,
+        "detail": "scipy.spatial",
+        "documentation": {}
+    },
+    {
+        "label": "cKDTree",
+        "importPath": "scipy.spatial",
+        "description": "scipy.spatial",
+        "isExtraImport": true,
+        "detail": "scipy.spatial",
+        "documentation": {}
+    },
+    {
+        "label": "cKDTree",
+        "importPath": "scipy.spatial",
+        "description": "scipy.spatial",
+        "isExtraImport": true,
+        "detail": "scipy.spatial",
+        "documentation": {}
+    },
+    {
+        "label": "cKDTree",
+        "importPath": "scipy.spatial",
+        "description": "scipy.spatial",
+        "isExtraImport": true,
+        "detail": "scipy.spatial",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "jit",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "prange",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "jit",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "prange",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "jit",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "prange",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "jit",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "prange",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "jit",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "prange",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "jit",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "prange",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "jit",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "prange",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "jit",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "prange",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "njit",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "vectorize",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "float64",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "int64",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "boolean",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "eigh",
+        "importPath": "scipy.linalg",
+        "description": "scipy.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "svd",
+        "importPath": "scipy.linalg",
+        "description": "scipy.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "qr",
+        "importPath": "scipy.linalg",
+        "description": "scipy.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "eigh",
+        "importPath": "scipy.linalg",
+        "description": "scipy.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "svd",
+        "importPath": "scipy.linalg",
+        "description": "scipy.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "qr",
+        "importPath": "scipy.linalg",
+        "description": "scipy.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "eigh",
+        "importPath": "scipy.linalg",
+        "description": "scipy.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "svd",
+        "importPath": "scipy.linalg",
+        "description": "scipy.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "qr",
+        "importPath": "scipy.linalg",
+        "description": "scipy.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "svd",
+        "importPath": "scipy.linalg",
+        "description": "scipy.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "csr_matrix",
+        "importPath": "scipy.sparse",
+        "description": "scipy.sparse",
+        "isExtraImport": true,
+        "detail": "scipy.sparse",
+        "documentation": {}
+    },
+    {
+        "label": "linalg",
+        "importPath": "scipy.sparse",
+        "description": "scipy.sparse",
+        "isExtraImport": true,
+        "detail": "scipy.sparse",
+        "documentation": {}
+    },
+    {
+        "label": "csr_matrix",
+        "importPath": "scipy.sparse",
+        "description": "scipy.sparse",
+        "isExtraImport": true,
+        "detail": "scipy.sparse",
+        "documentation": {}
+    },
+    {
+        "label": "linalg",
+        "importPath": "scipy.sparse",
+        "description": "scipy.sparse",
+        "isExtraImport": true,
+        "detail": "scipy.sparse",
+        "documentation": {}
+    },
+    {
+        "label": "csr_matrix",
+        "importPath": "scipy.sparse",
+        "description": "scipy.sparse",
+        "isExtraImport": true,
+        "detail": "scipy.sparse",
+        "documentation": {}
+    },
+    {
+        "label": "linalg",
+        "importPath": "scipy.sparse",
+        "description": "scipy.sparse",
+        "isExtraImport": true,
+        "detail": "scipy.sparse",
+        "documentation": {}
+    },
+    {
+        "label": "eigsh",
+        "importPath": "scipy.sparse.linalg",
+        "description": "scipy.sparse.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.sparse.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "eigsh",
+        "importPath": "scipy.sparse.linalg",
+        "description": "scipy.sparse.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.sparse.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "eigsh",
+        "importPath": "scipy.sparse.linalg",
+        "description": "scipy.sparse.linalg",
+        "isExtraImport": true,
+        "detail": "scipy.sparse.linalg",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "pdist",
+        "importPath": "scipy.spatial.distance",
+        "description": "scipy.spatial.distance",
+        "isExtraImport": true,
+        "detail": "scipy.spatial.distance",
+        "documentation": {}
+    },
+    {
+        "label": "squareform",
+        "importPath": "scipy.spatial.distance",
+        "description": "scipy.spatial.distance",
+        "isExtraImport": true,
+        "detail": "scipy.spatial.distance",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "GradientBoostingClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "open3d",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "open3d",
+        "description": "open3d",
+        "detail": "open3d",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "laspy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "laspy",
+        "description": "laspy",
+        "detail": "laspy",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "roc_curve",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "auc",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "Axes3D",
+        "importPath": "mpl_toolkits.mplot3d",
+        "description": "mpl_toolkits.mplot3d",
+        "isExtraImport": true,
+        "detail": "mpl_toolkits.mplot3d",
+        "documentation": {}
+    },
+    {
+        "label": "Axes3D",
+        "importPath": "mpl_toolkits.mplot3d",
+        "description": "mpl_toolkits.mplot3d",
+        "isExtraImport": true,
+        "detail": "mpl_toolkits.mplot3d",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.graph_objects",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.graph_objects",
+        "description": "plotly.graph_objects",
+        "detail": "plotly.graph_objects",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.express",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.express",
+        "description": "plotly.express",
+        "detail": "plotly.express",
+        "documentation": {}
+    },
+    {
+        "label": "make_subplots",
+        "importPath": "plotly.subplots",
+        "description": "plotly.subplots",
+        "isExtraImport": true,
+        "detail": "plotly.subplots",
+        "documentation": {}
+    },
+    {
+        "label": "make_subplots",
+        "importPath": "plotly.subplots",
+        "description": "plotly.subplots",
+        "isExtraImport": true,
+        "detail": "plotly.subplots",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "loadmat",
+        "importPath": "scipy.io",
+        "description": "scipy.io",
+        "isExtraImport": true,
+        "detail": "scipy.io",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "CSF",
+        "importPath": "enhanced_csf.core",
+        "description": "enhanced_csf.core",
+        "isExtraImport": true,
+        "detail": "enhanced_csf.core",
+        "documentation": {}
+    },
+    {
+        "label": "MathematicalCSF",
+        "importPath": "enhanced_csf.core",
+        "description": "enhanced_csf.core",
+        "isExtraImport": true,
+        "detail": "enhanced_csf.core",
+        "documentation": {}
+    },
+    {
+        "label": "DifferentialCSF",
+        "importPath": "enhanced_csf.core",
+        "description": "enhanced_csf.core",
+        "isExtraImport": true,
+        "detail": "enhanced_csf.core",
+        "documentation": {}
+    },
+    {
+        "label": "ManifoldCSF",
+        "importPath": "enhanced_csf.core",
+        "description": "enhanced_csf.core",
+        "isExtraImport": true,
+        "detail": "enhanced_csf.core",
+        "documentation": {}
+    },
+    {
+        "label": "CSF",
+        "importPath": "enhanced_csf.core",
+        "description": "enhanced_csf.core",
+        "isExtraImport": true,
+        "detail": "enhanced_csf.core",
+        "documentation": {}
+    },
+    {
+        "label": "MathematicalCSF",
+        "importPath": "enhanced_csf.core",
+        "description": "enhanced_csf.core",
+        "isExtraImport": true,
+        "detail": "enhanced_csf.core",
+        "documentation": {}
+    },
+    {
+        "label": "DifferentialCSF",
+        "importPath": "enhanced_csf.core",
+        "description": "enhanced_csf.core",
+        "isExtraImport": true,
+        "detail": "enhanced_csf.core",
+        "documentation": {}
+    },
+    {
+        "label": "ManifoldCSF",
+        "importPath": "enhanced_csf.core",
+        "description": "enhanced_csf.core",
+        "isExtraImport": true,
+        "detail": "enhanced_csf.core",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "FigureCanvasQTAgg",
+        "importPath": "matplotlib.backends.backend_qt5agg",
+        "description": "matplotlib.backends.backend_qt5agg",
+        "isExtraImport": true,
+        "detail": "matplotlib.backends.backend_qt5agg",
+        "documentation": {}
+    },
+    {
+        "label": "Figure",
+        "importPath": "matplotlib.figure",
+        "description": "matplotlib.figure",
+        "isExtraImport": true,
+        "detail": "matplotlib.figure",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMainWindow",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QHBoxLayout",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QComboBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFileDialog",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QTabWidget",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QGroupBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFormLayout",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSpinBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QDoubleSpinBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QCheckBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QProgressBar",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMessageBox",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QSplitter",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QFrame",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QScrollArea",
+        "importPath": "PyQt5.QtWidgets",
+        "description": "PyQt5.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QThread",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "pyqtSignal",
+        "importPath": "PyQt5.QtCore",
+        "description": "PyQt5.QtCore",
+        "isExtraImport": true,
+        "detail": "PyQt5.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "PointCloudIO",
+        "importPath": "enhanced_csf.utils.io",
+        "description": "enhanced_csf.utils.io",
+        "isExtraImport": true,
+        "detail": "enhanced_csf.utils.io",
+        "documentation": {}
+    },
+    {
+        "label": "PointCloudVisualizer",
+        "importPath": "enhanced_csf.utils.visualization",
+        "description": "enhanced_csf.utils.visualization",
+        "isExtraImport": true,
+        "detail": "enhanced_csf.utils.visualization",
+        "documentation": {}
+    },
+    {
+        "label": "Tee",
+        "kind": 6,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "class Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except OSError:\n                pass\n        tee_f.write(what)",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_root_hkey",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE\n    except OSError:\n        # Either not exist, or no permissions to create subkey means\n        # must be HKCU\n        return winreg.HKEY_CURRENT_USER",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "create_shortcut",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def create_shortcut(\n    path, description, filename, arguments=\"\", workdir=\"\", iconpath=\"\", iconindex=0\n):\n    import pythoncom\n    from win32com.shell import shell\n    ilink = pythoncom.CoCreateInstance(\n        shell.CLSID_ShellLink,\n        None,\n        pythoncom.CLSCTX_INPROC_SERVER,\n        shell.IID_IShellLink,",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_special_folder_path",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_special_folder_path(path_name):\n    from win32com.shell import shell, shellcon\n    for maybe in \"\"\"\n        CSIDL_COMMON_STARTMENU CSIDL_STARTMENU CSIDL_COMMON_APPDATA\n        CSIDL_LOCAL_APPDATA CSIDL_APPDATA CSIDL_COMMON_DESKTOPDIRECTORY\n        CSIDL_DESKTOPDIRECTORY CSIDL_COMMON_STARTUP CSIDL_STARTUP\n        CSIDL_COMMON_PROGRAMS CSIDL_PROGRAMS CSIDL_PROGRAM_FILES_COMMON\n        CSIDL_PROGRAM_FILES CSIDL_FONTS\"\"\".split():\n        if maybe == path_name:\n            csidl = getattr(shellcon, maybe)",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "CopyTo",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def CopyTo(desc, src, dest):\n    import win32api\n    import win32con\n    while 1:\n        try:\n            win32api.CopyFile(src, dest, 0)\n            return\n        except win32api.error as details:\n            if details.winerror == 5:  # access denied - user not admin.\n                raise",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "LoadSystemModule",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def LoadSystemModule(lib_dir, modname):\n    # See if this is a debug build.\n    import importlib.machinery\n    import importlib.util\n    suffix = \"_d\" if \"_d.pyd\" in importlib.machinery.EXTENSION_SUFFIXES else \"\"\n    filename = \"%s%d%d%s.dll\" % (\n        modname,\n        sys.version_info.major,\n        sys.version_info.minor,\n        suffix,",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "SetPyKeyVal",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def SetPyKeyVal(key_name, value_name, value):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.CreateKey(root_key, key_name)\n        try:\n            winreg.SetValueEx(my_key, value_name, 0, winreg.REG_SZ, value)\n            if verbose:\n                print(f\"-> {root_key_name}\\\\{key_name}[{value_name}]={value!r}\")\n        finally:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "UnsetPyKeyVal",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def UnsetPyKeyVal(key_name, value_name, delete_key=False):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.OpenKey(root_key, key_name, 0, winreg.KEY_SET_VALUE)\n        try:\n            winreg.DeleteValue(my_key, value_name)\n            if verbose:\n                print(f\"-> DELETE {root_key_name}\\\\{key_name}[{value_name}]\")\n        finally:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterCOMObjects",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterCOMObjects(register=True):\n    import win32com.server.register\n    if register:\n        func = win32com.server.register.RegisterClasses\n    else:\n        func = win32com.server.register.UnregisterClasses\n    flags = {}\n    if not verbose:\n        flags[\"quiet\"] = 1\n    for module, klass_name in com_modules:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterHelpFile",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterHelpFile(register=True, lib_dir=None):\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    if register:\n        # Register the .chm help file.\n        chm_file = os.path.join(lib_dir, \"PyWin32.chm\")\n        if os.path.isfile(chm_file):\n            # This isn't recursive, so if 'Help' doesn't exist, we croak\n            SetPyKeyVal(\"Help\", None, None)\n            SetPyKeyVal(\"Help\\\\Pythonwin Reference\", None, chm_file)",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterPythonwin",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterPythonwin(register=True, lib_dir=None):\n    \"\"\"Add (or remove) Pythonwin to context menu for python scripts.\n    ??? Should probably also add Edit command for pys files also.\n    Also need to remove these keys on uninstall, but there's no function\n    to add registry entries to uninstall log ???\n    \"\"\"\n    import os\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    classes_root = get_root_hkey()",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_shortcuts_folder",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_shortcuts_folder():\n    if get_root_hkey() == winreg.HKEY_LOCAL_MACHINE:\n        try:\n            fldr = get_special_folder_path(\"CSIDL_COMMON_PROGRAMS\")\n        except OSError:\n            # No CSIDL_COMMON_PROGRAMS on this platform\n            fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")\n    else:\n        # non-admin install - always goes in this user's start menu.\n        fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_dir",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_system_dir():\n    import win32api  # we assume this exists.\n    try:\n        import pythoncom\n        import win32process\n        from win32com.shell import shell, shellcon\n        try:\n            if win32process.IsWow64Process():\n                return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEMX86)\n            return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEM)",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "fixup_dbi",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def fixup_dbi():\n    # We used to have a dbi.pyd with our .pyd files, but now have a .py file.\n    # If the user didn't uninstall, they will find the .pyd which will cause\n    # problems - so handle that.\n    import win32api\n    import win32con\n    pyd_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi.pyd\")\n    pyd_d_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi_d.pyd\")\n    py_name = os.path.join(os.path.dirname(win32con.__file__), \"dbi.py\")\n    for this_pyd in (pyd_name, pyd_d_name):",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "install",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def install(lib_dir):\n    import traceback\n    # The .pth file is now installed as a regular file.\n    # Create the .pth file in the site-packages dir, and use only relative paths\n    # We used to write a .pth directly to sys.prefix - clobber it.\n    if os.path.isfile(os.path.join(sys.prefix, \"pywin32.pth\")):\n        os.unlink(os.path.join(sys.prefix, \"pywin32.pth\"))\n    # The .pth may be new and therefore not loaded in this session.\n    # Setup the paths just in case.\n    for name in \"win32 win32\\\\lib Pythonwin\".split():",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "uninstall",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def uninstall(lib_dir):\n    # First ensure our system modules are loaded from pywin32_system, so\n    # we can remove the ones we copied...\n    LoadSystemModule(lib_dir, \"pywintypes\")\n    LoadSystemModule(lib_dir, \"pythoncom\")\n    try:\n        RegisterCOMObjects(False)\n    except Exception as why:\n        print(f\"Failed to unregister COM objects: {why}\")\n    try:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verify_destination",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def verify_destination(location: str) -> str:\n    location = os.path.abspath(location)\n    if not os.path.isdir(location):\n        raise argparse.ArgumentTypeError(\n            f'Path \"{location}\" is not an existing directory!'\n        )\n    return location\ndef main():\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python -m pywin32_postinstall -install\n    * or (shorter but you don't have control over which python environment is used)\n    > pywin32_postinstall -install\n    You need to execute this script, with a '-install' parameter,\n    to ensure the environment is setup correctly to install COM objects, services, etc.",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "tee_f",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "tee_f = open(\n    os.path.join(\n        tempfile.gettempdir(),  # Send output somewhere so it can be found if necessary...\n        \"pywin32_postinstall.log\",\n    ),\n    \"w\",\n)\nclass Tee:\n    def __init__(self, file):\n        self.f = file",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stderr",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stderr = Tee(sys.stderr)\nsys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "com_modules",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "com_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0\n# Verbosity of output messages.",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "silent",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "silent = 0\n# Verbosity of output messages.\nverbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ndef get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verbose",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "verbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ndef get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE\n    except OSError:\n        # Either not exist, or no permissions to create subkey means",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "root_key_name",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "root_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ndef get_root_hkey():\n    try:\n        winreg.OpenKey(\n            winreg.HKEY_LOCAL_MACHINE, root_key_name, 0, winreg.KEY_CREATE_SUB_KEY\n        )\n        return winreg.HKEY_LOCAL_MACHINE\n    except OSError:\n        # Either not exist, or no permissions to create subkey means\n        # must be HKCU",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "run_test",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "def run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()\n    result = subprocess.run(cmd, check=False, cwd=dirname)\n    print(f\"*** Test script '{script}' exited with {result.returncode}\")\n    sys.stdout.flush()\n    if result.returncode:",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_run",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "def find_and_run(possible_locations, extras):\n    for maybe in possible_locations:\n        if os.path.isfile(maybe):\n            run_test(maybe, extras)\n            break\n    else:\n        raise RuntimeError(\n            \"Failed to locate a test script in one of %s\" % possible_locations\n        )\ndef main():",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "def main():\n    import argparse\n    code_directories = [project_root] + site_packages\n    parser = argparse.ArgumentParser(\n        description=\"A script to trigger tests in all subprojects of PyWin32.\"\n    )\n    parser.add_argument(\n        \"-no-user-interaction\",\n        default=False,\n        action=\"store_true\",",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "project_root",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "project_root = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))\nsite_packages = [site.getusersitepackages()] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "site_packages = [site.getusersitepackages()] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "failures",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "failures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "AdaptiveCSF",
+        "kind": 6,
+        "importPath": "enhanced_csf.core.adaptive",
+        "description": "enhanced_csf.core.adaptive",
+        "peekOfCode": "class AdaptiveCSF(CSF):\n    \"\"\"具有自适应参数优化的CSF算法\"\"\"\n    def __init__(self, \n                 cloth_resolution=2,\n                 time_step=0.65,\n                 class_threshold=0.5,\n                 iterations=500,\n                 rigidness=3,\n                 slope_threshold=30):\n        \"\"\"",
+        "detail": "enhanced_csf.core.adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "enhanced_csf.core.adaptive",
+        "description": "enhanced_csf.core.adaptive",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@jit(nopython=True)\ndef _compute_adaptive_height_diff_numba(points: np.ndarray, cloth_points: np.ndarray, \n                                      indices: np.ndarray, time_step: float, \n                                      rigidness: int, local_slope: np.ndarray) -> np.ndarray:\n    \"\"\"使用Numba加速的自适应高度差计算\"\"\"\n    n_cloth = len(cloth_points)\n    updated_cloth = np.zeros_like(cloth_points)\n    for i in prange(n_cloth):\n        # 找到对应的点云点",
+        "detail": "enhanced_csf.core.adaptive",
+        "documentation": {}
+    },
+    {
+        "label": "CSF",
+        "kind": 6,
+        "importPath": "enhanced_csf.core.csf",
+        "description": "enhanced_csf.core.csf",
+        "peekOfCode": "class CSF:\n    \"\"\"基础CSF算法实现\n    该算法使用布料模拟方法对点云进行地面点分类，主要特点包括：\n    1. 布料模拟：使用物理模拟方法模拟布料在点云表面的运动\n    2. 自适应更新：根据点云高度动态调整布料位置\n    3. 参数可调：提供多个参数用于调整算法性能\n    \"\"\"\n    def __init__(self, \n                 cloth_resolution: float = 0.5,\n                 time_step: float = 0.65,",
+        "detail": "enhanced_csf.core.csf",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "enhanced_csf.core.csf",
+        "description": "enhanced_csf.core.csf",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@jit(nopython=True)\ndef _compute_height_diff_numba(points: np.ndarray, cloth_points: np.ndarray, \n                             indices: np.ndarray, time_step: float, \n                             rigidness: int) -> np.ndarray:\n    \"\"\"使用Numba加速的高度差计算\"\"\"\n    n_cloth = len(cloth_points)\n    updated_cloth = np.zeros_like(cloth_points)\n    for i in prange(n_cloth):\n        # 找到对应的点云点",
+        "detail": "enhanced_csf.core.csf",
+        "documentation": {}
+    },
+    {
+        "label": "DifferentialCSF",
+        "kind": 6,
+        "importPath": "enhanced_csf.core.differential_csf",
+        "description": "enhanced_csf.core.differential_csf",
+        "peekOfCode": "class DifferentialCSF:\n    \"\"\"基于微分几何的CSF算法实现\n    该算法结合了微分几何、曲率分析和流形学习的理论，通过以下创新点提高地面点云分类的准确性：\n    1. 微分几何特征：计算平均曲率、主曲率和高斯曲率\n    2. 流形学习：使用局部线性嵌入(LLE)将点云映射到低维流形空间\n    3. 曲率分析：使用Weingarten映射和形状算子分析局部几何特征\n    4. 自适应权重：根据局部几何特征动态调整更新权重\n    5. 数值稳定性：使用QR分解和SVD提高数值稳定性\n    \"\"\"\n    def __init__(self, ",
+        "detail": "enhanced_csf.core.differential_csf",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "enhanced_csf.core.differential_csf",
+        "description": "enhanced_csf.core.differential_csf",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@jit(nopython=True)\ndef _compute_weingarten_map_numba(points: np.ndarray, center: np.ndarray, normal: np.ndarray) -> np.ndarray:\n    \"\"\"使用Numba加速的Weingarten映射计算\"\"\"\n    # 计算局部坐标系\n    n_points = len(points)\n    centered = points - center\n    # 计算协方差矩阵\n    cov = np.zeros((3, 3))\n    for i in range(n_points):",
+        "detail": "enhanced_csf.core.differential_csf",
+        "documentation": {}
+    },
+    {
+        "label": "ManifoldCSF",
+        "kind": 6,
+        "importPath": "enhanced_csf.core.manifold_csf",
+        "description": "enhanced_csf.core.manifold_csf",
+        "peekOfCode": "class ManifoldCSF:\n    \"\"\"基于流形学习和几何分析的创新CSF算法实现\n    该算法结合了流形学习、几何分析和拓扑数据分析的思想，通过以下创新点提高地面点云分类的准确性：\n    1. 流形嵌入：使用局部线性嵌入(LLE)将点云映射到低维流形空间\n    2. 几何特征：计算测地线曲率、法曲率和平均曲率\n    3. 拓扑特征：使用持久同伦分析提取点云的拓扑特征\n    4. 自适应权重：根据局部几何和拓扑特征动态调整更新权重\n    5. 并行计算：使用Numba加速计算密集型操作\n    \"\"\"\n    def __init__(self, ",
+        "detail": "enhanced_csf.core.manifold_csf",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "enhanced_csf.core.manifold_csf",
+        "description": "enhanced_csf.core.manifold_csf",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@jit(nopython=True, parallel=True)\ndef _compute_geodesic_path_numba(points: np.ndarray, n_steps: int = 8) -> np.ndarray:\n    \"\"\"使用Numba加速的测地线路径计算\"\"\"\n    if len(points) < 2:\n        return np.zeros((0, 2))  # 返回一个空的2D数组\n    # 找到最远的两个点作为测地线端点\n    distances = np.sum(points**2, axis=1)\n    start_idx = np.argmin(distances)\n    end_idx = np.argmax(distances)",
+        "detail": "enhanced_csf.core.manifold_csf",
+        "documentation": {}
+    },
+    {
+        "label": "MathematicalCSF",
+        "kind": 6,
+        "importPath": "enhanced_csf.core.mathematical_csf",
+        "description": "enhanced_csf.core.mathematical_csf",
+        "peekOfCode": "class MathematicalCSF:\n    \"\"\"基于深度数学模型的CSF算法实现\n    该算法结合了黎曼几何、拓扑分析和谱分析的理论，通过以下创新点提高地面点云分类的准确性：\n    1. 黎曼几何：使用黎曼度量张量和协变导数分析局部几何特征\n    2. 拓扑分析：使用持久同伦分析提取点云的拓扑特征\n    3. 谱分析：使用拉普拉斯算子分析点云的全局结构\n    4. 自适应权重：根据局部几何和拓扑特征动态调整更新权重\n    5. 数值稳定性：使用QR分解和SVD提高数值稳定性\n    \"\"\"\n    def __init__(self, ",
+        "detail": "enhanced_csf.core.mathematical_csf",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "enhanced_csf.core.mathematical_csf",
+        "description": "enhanced_csf.core.mathematical_csf",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@jit(nopython=True)\ndef _compute_riemannian_metric_numba(points: np.ndarray, center: np.ndarray, k: int) -> np.ndarray:\n    \"\"\"使用Numba加速的黎曼度量张量计算\"\"\"\n    centered = points - center\n    cov = np.dot(centered.T, centered) / k\n    return cov\n@jit(nopython=True)\ndef _compute_covariant_derivative_numba(points: np.ndarray, center: np.ndarray, \n                                      metric: np.ndarray, h: float) -> np.ndarray:",
+        "detail": "enhanced_csf.core.mathematical_csf",
+        "documentation": {}
+    },
+    {
+        "label": "MultiscaleCSF",
+        "kind": 6,
+        "importPath": "enhanced_csf.core.multiscale",
+        "description": "enhanced_csf.core.multiscale",
+        "peekOfCode": "class MultiscaleCSF(CSF):\n    \"\"\"多尺度CSF算法实现\"\"\"\n    def __init__(self,\n                 base_resolution=2,\n                 time_step=0.65,\n                 class_threshold=0.5,\n                 iterations=500,\n                 rigidness=3,\n                 n_scales=3):\n        \"\"\"",
+        "detail": "enhanced_csf.core.multiscale",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "enhanced_csf.core.multiscale",
+        "description": "enhanced_csf.core.multiscale",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@jit(nopython=True)\ndef _compute_multiscale_height_diff_numba(points: np.ndarray, cloth_points: np.ndarray, \n                                        indices: np.ndarray, time_step: float, \n                                        rigidness: int, scale_weights: np.ndarray) -> np.ndarray:\n    \"\"\"使用Numba加速的多尺度高度差计算\"\"\"\n    n_cloth = len(cloth_points)\n    updated_cloth = np.zeros_like(cloth_points)\n    for i in prange(n_cloth):\n        # 找到对应的点云点",
+        "detail": "enhanced_csf.core.multiscale",
+        "documentation": {}
+    },
+    {
+        "label": "FeatureFusion",
+        "kind": 6,
+        "importPath": "enhanced_csf.features.fusion",
+        "description": "enhanced_csf.features.fusion",
+        "peekOfCode": "class FeatureFusion:\n    \"\"\"\n    特征融合类，提供多种特征融合方法和模型选择功能\n    支持多种分类器和特征融合策略，包括：\n    - 随机森林\n    - 梯度提升\n    - 支持向量机\n    - 特征重要性分析\n    - 交叉验证\n    \"\"\"",
+        "detail": "enhanced_csf.features.fusion",
+        "documentation": {}
+    },
+    {
+        "label": "LocalFeatures",
+        "kind": 6,
+        "importPath": "enhanced_csf.features.local",
+        "description": "enhanced_csf.features.local",
+        "peekOfCode": "class LocalFeatures:\n    \"\"\"\n    局部特征计算类，提供多种点云局部特征提取方法\n    支持的特征包括：\n    - 平面度\n    - 曲率\n    - 法向量一致性\n    - 局部密度\n    - 局部高度变化\n    - 局部方向性",
+        "detail": "enhanced_csf.features.local",
+        "documentation": {}
+    },
+    {
+        "label": "PointCloudIO",
+        "kind": 6,
+        "importPath": "enhanced_csf.utils.io",
+        "description": "enhanced_csf.utils.io",
+        "peekOfCode": "class PointCloudIO:\n    \"\"\"\n    点云数据读写类，支持多种文件格式和数据处理功能\n    支持的文件格式：\n    - PLY\n    - LAS/LAZ\n    - PCD\n    - XYZ\n    - NPY\n    - CSV",
+        "detail": "enhanced_csf.utils.io",
+        "documentation": {}
+    },
+    {
+        "label": "ClassificationMetrics",
+        "kind": 6,
+        "importPath": "enhanced_csf.utils.metrics",
+        "description": "enhanced_csf.utils.metrics",
+        "peekOfCode": "class ClassificationMetrics:\n    \"\"\"分类评估指标计算类\"\"\"\n    @staticmethod\n    def compute_metrics(true_labels, pred_labels):\n        \"\"\"\n        计算分类评估指标\n        Parameters\n        ----------\n        true_labels : np.ndarray\n            真实标签",
+        "detail": "enhanced_csf.utils.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "PointCloudVisualizer",
+        "kind": 6,
+        "importPath": "enhanced_csf.utils.visualization",
+        "description": "enhanced_csf.utils.visualization",
+        "peekOfCode": "class PointCloudVisualizer:\n    \"\"\"\n    点云可视化类，提供多种可视化方法和交互功能\n    支持的可视化方式：\n    - 2D/3D散点图\n    - 密度图\n    - 等高线图\n    - 特征分布图\n    - 交互式3D可视化\n    - 动画效果",
+        "detail": "enhanced_csf.utils.visualization",
+        "documentation": {}
+    },
+    {
+        "label": "generate_ground_points",
+        "kind": 2,
+        "importPath": "examples.generate_sample_data",
+        "description": "examples.generate_sample_data",
+        "peekOfCode": "def generate_ground_points(x_range, y_range, z_func, resolution=1.0):\n    \"\"\"\n    生成地面点\n    Parameters\n    ----------\n    x_range : tuple\n        x坐标范围，格式为(min, max)\n    y_range : tuple\n        y坐标范围，格式为(min, max)\n    z_func : function",
+        "detail": "examples.generate_sample_data",
+        "documentation": {}
+    },
+    {
+        "label": "generate_building",
+        "kind": 2,
+        "importPath": "examples.generate_sample_data",
+        "description": "examples.generate_sample_data",
+        "peekOfCode": "def generate_building(x, y, width, length, height, base_height, n_points):\n    \"\"\"\n    生成建筑物点\n    Parameters\n    ----------\n    x, y : float\n        建筑物中心坐标\n    width, length : float\n        建筑物宽度和长度\n    height : float",
+        "detail": "examples.generate_sample_data",
+        "documentation": {}
+    },
+    {
+        "label": "generate_tree",
+        "kind": 2,
+        "importPath": "examples.generate_sample_data",
+        "description": "examples.generate_sample_data",
+        "peekOfCode": "def generate_tree(x, y, radius, height, base_height, n_points):\n    \"\"\"\n    生成树木点\n    Parameters\n    ----------\n    x, y : float\n        树木中心坐标\n    radius : float\n        树木半径\n    height : float",
+        "detail": "examples.generate_sample_data",
+        "documentation": {}
+    },
+    {
+        "label": "generate_road",
+        "kind": 2,
+        "importPath": "examples.generate_sample_data",
+        "description": "examples.generate_sample_data",
+        "peekOfCode": "def generate_road(x_start, y_start, x_end, y_end, width, base_height, n_points):\n    \"\"\"\n    生成道路点\n    Parameters\n    ----------\n    x_start, y_start : float\n        道路起点坐标\n    x_end, y_end : float\n        道路终点坐标\n    width : float",
+        "detail": "examples.generate_sample_data",
+        "documentation": {}
+    },
+    {
+        "label": "save_to_las",
+        "kind": 2,
+        "importPath": "examples.generate_sample_data",
+        "description": "examples.generate_sample_data",
+        "peekOfCode": "def save_to_las(points, labels, output_file):\n    \"\"\"\n    将点云数据保存为LAS格式\n    Parameters\n    ----------\n    points : np.ndarray\n        点云坐标，shape为(n_points, 3)\n    labels : np.ndarray\n        分类标签，1表示地面点，0表示非地面点\n    output_file : str",
+        "detail": "examples.generate_sample_data",
+        "documentation": {}
+    },
+    {
+        "label": "generate_simple_terrain",
+        "kind": 2,
+        "importPath": "examples.generate_sample_data",
+        "description": "examples.generate_sample_data",
+        "peekOfCode": "def generate_simple_terrain(output_file, n_points=100000):\n    \"\"\"\n    生成简单地形点云数据\n    Parameters\n    ----------\n    output_file : str\n        输出文件路径\n    n_points : int\n        总点数\n    \"\"\"",
+        "detail": "examples.generate_sample_data",
+        "documentation": {}
+    },
+    {
+        "label": "generate_complex_terrain",
+        "kind": 2,
+        "importPath": "examples.generate_sample_data",
+        "description": "examples.generate_sample_data",
+        "peekOfCode": "def generate_complex_terrain(output_file, n_points=200000):\n    \"\"\"\n    生成复杂地形点云数据\n    Parameters\n    ----------\n    output_file : str\n        输出文件路径\n    n_points : int\n        总点数\n    \"\"\"",
+        "detail": "examples.generate_sample_data",
+        "documentation": {}
+    },
+    {
+        "label": "generate_urban_terrain",
+        "kind": 2,
+        "importPath": "examples.generate_sample_data",
+        "description": "examples.generate_sample_data",
+        "peekOfCode": "def generate_urban_terrain(output_file, n_points=300000):\n    \"\"\"\n    生成城市地形点云数据\n    Parameters\n    ----------\n    output_file : str\n        输出文件路径\n    n_points : int\n        总点数\n    \"\"\"",
+        "detail": "examples.generate_sample_data",
+        "documentation": {}
+    },
+    {
+        "label": "generate_forest_terrain",
+        "kind": 2,
+        "importPath": "examples.generate_sample_data",
+        "description": "examples.generate_sample_data",
+        "peekOfCode": "def generate_forest_terrain(output_file, n_points=400000):\n    \"\"\"\n    生成森林地形点云数据\n    Parameters\n    ----------\n    output_file : str\n        输出文件路径\n    n_points : int\n        总点数\n    \"\"\"",
+        "detail": "examples.generate_sample_data",
+        "documentation": {}
+    },
+    {
+        "label": "parse_arguments",
+        "kind": 2,
+        "importPath": "examples.generate_sample_data",
+        "description": "examples.generate_sample_data",
+        "peekOfCode": "def parse_arguments():\n    \"\"\"\n    解析命令行参数\n    Returns\n    -------\n    args : argparse.Namespace\n        解析后的命令行参数\n    \"\"\"\n    parser = argparse.ArgumentParser(description='生成示例LAS点云数据')\n    parser.add_argument('--output-dir', type=str, default='sample_data',",
+        "detail": "examples.generate_sample_data",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "examples.generate_sample_data",
+        "description": "examples.generate_sample_data",
+        "peekOfCode": "def main():\n    \"\"\"主函数\"\"\"\n    # 解析命令行参数\n    args = parse_arguments()\n    # 创建输出目录\n    os.makedirs(args.output_dir, exist_ok=True)\n    # 生成点云数据\n    if args.terrain == 'simple' or args.terrain == 'all':\n        output_file = os.path.join(args.output_dir, 'simple_terrain.las')\n        generate_simple_terrain(output_file, args.points)",
+        "detail": "examples.generate_sample_data",
+        "documentation": {}
+    },
+    {
+        "label": "NumpyEncoder",
+        "kind": 6,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "class NumpyEncoder(json.JSONEncoder):\n    \"\"\"处理NumPy类型的JSON编码器\"\"\"\n    def default(self, obj):\n        if isinstance(obj, np.integer):\n            return int(obj)\n        elif isinstance(obj, np.floating):\n            return float(obj)\n        elif isinstance(obj, np.ndarray):\n            return obj.tolist()\n        return super(NumpyEncoder, self).default(obj)",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "load_sample_data",
+        "kind": 2,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "def load_sample_data(file_path=None):\n    \"\"\"\n    加载示例点云数据\n    Parameters\n    ----------\n    file_path : str, optional\n        点云数据文件路径，支持.npy, .txt, .mat, .las格式\n    Returns\n    -------\n    points : np.ndarray",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classification",
+        "kind": 2,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "def evaluate_classification(points, labels, ground_truth=None):\n    \"\"\"\n    增强版分类评估函数\n    Parameters\n    ----------\n    points : np.ndarray\n        点云数据，shape为(n_points, 3)\n    labels : np.ndarray\n        分类标签，1表示地面点，0表示非地面点\n    ground_truth : np.ndarray, optional",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "save_results",
+        "kind": 2,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "def save_results(results, output_dir):\n    \"\"\"\n    保存测试结果\n    Parameters\n    ----------\n    results : dict\n        测试结果字典\n    output_dir : str\n        输出目录路径\n    \"\"\"",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "generate_html_report",
+        "kind": 2,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "def generate_html_report(results, output_dir):\n    \"\"\"\n    生成HTML格式的测试报告\n    Parameters\n    ----------\n    results : dict\n        测试结果字典\n    output_dir : Path\n        输出目录路径\n    \"\"\"",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "visualize_results_3d",
+        "kind": 2,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "def visualize_results_3d(points, labels, ground_truth=None, title=\"Classification Results\", save_path=None):\n    \"\"\"\n    使用Plotly生成交互式3D可视化\n    Parameters\n    ----------\n    points : np.ndarray\n        点云数据\n    labels : np.ndarray\n        分类标签\n    ground_truth : np.ndarray, optional",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "plot_performance_comparison",
+        "kind": 2,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "def plot_performance_comparison(results, execution_times, output_dir):\n    \"\"\"\n    生成算法性能对比图\n    Parameters\n    ----------\n    results : dict\n        评估结果\n    execution_times : dict\n        执行时间\n    output_dir : str",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "compare_algorithms",
+        "kind": 2,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "def compare_algorithms(points, ground_truth=None, algorithms_to_run=None, output_dir=\"examples/output\"):\n    \"\"\"\n    增强版算法对比函数\n    Parameters\n    ----------\n    points : np.ndarray\n        点云数据\n    ground_truth : np.ndarray, optional\n        地面真值标签\n    algorithms_to_run : list, optional",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "parameter_sensitivity_analysis",
+        "kind": 2,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "def parameter_sensitivity_analysis(points, ground_truth, parameters, output_dir):\n    \"\"\"\n    参数敏感性分析\n    Parameters\n    ----------\n    points : np.ndarray\n        点云数据\n    ground_truth : np.ndarray\n        地面真值标签\n    parameters : list",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "parse_arguments",
+        "kind": 2,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "def parse_arguments():\n    \"\"\"解析命令行参数\"\"\"\n    parser = argparse.ArgumentParser(description='CSF Algorithm Test and Comparison')\n    parser.add_argument('--data', type=str, help='Path to point cloud data file')\n    parser.add_argument('--output-dir', type=str, default='examples/output',\n                      help='Output directory for results')\n    parser.add_argument('--algorithms', nargs='+', \n                      default=['CSF', 'MathematicalCSF', 'DifferentialCSF', 'ManifoldCSF'],\n                      help='Algorithms to run')\n    parser.add_argument('--sensitivity', action='store_true',",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "def main():\n    \"\"\"主函数\"\"\"\n    args = parse_arguments()\n    # 设置输出目录\n    output_dir = Path(args.output_dir)\n    output_dir.mkdir(parents=True, exist_ok=True)\n    # 加载数据\n    logger.info(\"Loading point cloud data...\")\n    points, ground_truth = load_sample_data(args.data)\n    # 运行算法对比",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "output_dir",
+        "kind": 5,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "output_dir = Path(\"examples/output\")\noutput_dir.mkdir(parents=True, exist_ok=True)\n# 设置全局日志记录器\nlogger = logging.getLogger(\"CSF_Test\")\nlogger.setLevel(logging.INFO)\n# 添加文件处理器\nlog_file = output_dir / f\"csf_test_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log\"\nfile_handler = logging.FileHandler(log_file)\nfile_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))\nlogger.addHandler(file_handler)",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "logger = logging.getLogger(\"CSF_Test\")\nlogger.setLevel(logging.INFO)\n# 添加文件处理器\nlog_file = output_dir / f\"csf_test_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log\"\nfile_handler = logging.FileHandler(log_file)\nfile_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))\nlogger.addHandler(file_handler)\n# 添加控制台处理器\nconsole_handler = logging.StreamHandler()\nconsole_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "log_file",
+        "kind": 5,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "log_file = output_dir / f\"csf_test_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log\"\nfile_handler = logging.FileHandler(log_file)\nfile_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))\nlogger.addHandler(file_handler)\n# 添加控制台处理器\nconsole_handler = logging.StreamHandler()\nconsole_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))\nlogger.addHandler(console_handler)\nclass NumpyEncoder(json.JSONEncoder):\n    \"\"\"处理NumPy类型的JSON编码器\"\"\"",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "file_handler",
+        "kind": 5,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "file_handler = logging.FileHandler(log_file)\nfile_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))\nlogger.addHandler(file_handler)\n# 添加控制台处理器\nconsole_handler = logging.StreamHandler()\nconsole_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))\nlogger.addHandler(console_handler)\nclass NumpyEncoder(json.JSONEncoder):\n    \"\"\"处理NumPy类型的JSON编码器\"\"\"\n    def default(self, obj):",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "console_handler",
+        "kind": 5,
+        "importPath": "examples.test_csf_algorithms",
+        "description": "examples.test_csf_algorithms",
+        "peekOfCode": "console_handler = logging.StreamHandler()\nconsole_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))\nlogger.addHandler(console_handler)\nclass NumpyEncoder(json.JSONEncoder):\n    \"\"\"处理NumPy类型的JSON编码器\"\"\"\n    def default(self, obj):\n        if isinstance(obj, np.integer):\n            return int(obj)\n        elif isinstance(obj, np.floating):\n            return float(obj)",
+        "detail": "examples.test_csf_algorithms",
+        "documentation": {}
+    },
+    {
+        "label": "AlgorithmThread",
+        "kind": 6,
+        "importPath": "gui.csf_gui",
+        "description": "gui.csf_gui",
+        "peekOfCode": "class AlgorithmThread(QThread):\n    \"\"\"算法执行线程，避免GUI卡顿\"\"\"\n    progress = pyqtSignal(int)\n    finished = pyqtSignal(object, object, float)  # 结果、标签、执行时间\n    def __init__(self, algorithm, points, ground_truth=None):\n        super().__init__()\n        self.algorithm = algorithm\n        self.points = points\n        self.ground_truth = ground_truth\n    def run(self):",
+        "detail": "gui.csf_gui",
+        "documentation": {}
+    },
+    {
+        "label": "CSFGUI",
+        "kind": 6,
+        "importPath": "gui.csf_gui",
+        "description": "gui.csf_gui",
+        "peekOfCode": "class CSFGUI(QMainWindow):\n    \"\"\"CSF算法GUI主窗口\"\"\"\n    def __init__(self):\n        super().__init__()\n        self.setWindowTitle(\"CSF算法可视化工具\")\n        self.setGeometry(100, 100, 1200, 800)\n        # 初始化变量\n        self.points = None\n        self.ground_truth = None\n        self.labels = None",
+        "detail": "gui.csf_gui",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.rcParams['font.sans-serif']",
+        "kind": 5,
+        "importPath": "gui.csf_gui",
+        "description": "gui.csf_gui",
+        "peekOfCode": "matplotlib.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'SimSun', 'Arial Unicode MS']\nmatplotlib.rcParams['axes.unicode_minus'] = False  # 解决负号显示问题\nimport matplotlib.pyplot as plt\nfrom matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas\nfrom matplotlib.figure import Figure\nfrom PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, \n                            QLabel, QPushButton, QComboBox, QFileDialog, QTabWidget, \n                            QGroupBox, QFormLayout, QSpinBox, QDoubleSpinBox, QCheckBox,\n                            QProgressBar, QMessageBox, QSplitter, QFrame, QScrollArea)\nfrom PyQt5.QtCore import Qt, QThread, pyqtSignal",
+        "detail": "gui.csf_gui",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.rcParams['axes.unicode_minus']",
+        "kind": 5,
+        "importPath": "gui.csf_gui",
+        "description": "gui.csf_gui",
+        "peekOfCode": "matplotlib.rcParams['axes.unicode_minus'] = False  # 解决负号显示问题\nimport matplotlib.pyplot as plt\nfrom matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas\nfrom matplotlib.figure import Figure\nfrom PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, \n                            QLabel, QPushButton, QComboBox, QFileDialog, QTabWidget, \n                            QGroupBox, QFormLayout, QSpinBox, QDoubleSpinBox, QCheckBox,\n                            QProgressBar, QMessageBox, QSplitter, QFrame, QScrollArea)\nfrom PyQt5.QtCore import Qt, QThread, pyqtSignal\n# 导入CSF算法",
+        "detail": "gui.csf_gui",
+        "documentation": {}
+    }
+]

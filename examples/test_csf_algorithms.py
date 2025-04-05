@@ -726,10 +726,10 @@ def parameter_sensitivity_analysis(points, ground_truth, parameters, output_dir)
             algo = CSF()
             setattr(algo, param, value)
             
-            # 运行算法
+                    # 运行算法
             labels = algo.classify(points)
-            
-            # 评估结果
+                    
+                    # 评估结果
             metrics = evaluate_classification(points, labels, ground_truth)
             metrics['param_value'] = value
             param_results.append(metrics)
@@ -828,4 +828,4 @@ def main():
     logger.info("Test completed successfully!")
 
 if __name__ == "__main__":
-    main()
+    main() 
